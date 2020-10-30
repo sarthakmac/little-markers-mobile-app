@@ -1,0 +1,579 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:wakelock] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_statusbarcolor] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_statusbarcolor/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:screen] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/screen/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:flutter_local_notifications] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_money_formatter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_money_formatter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location_web] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:webview_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sms_autofill] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:sqflite] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2e5fd02be3a38f0485077560364ab86b/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f4318b834405921e87d6b24ed175996c/ucrop-2.2.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4249dafbc90e047e09cdebdb3e82f272/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4e748032d6df9c51e217df12fef202ab/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/005b1c488f0d5e9f3ba6a8259f041c2d/transition-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ffbc01c62758e32dfc06aa0e80ac9b1e/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/655a7c45b28998691931449a9b1101dd/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/9f20b754fb5d1fad0de3c63ba9d43fe9/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b5c66757e813832d7cafc615efac2e27/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2b2bbb61f97e9361460e48a98af8d15a/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:11:5-41:19
+MERGED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:8:5-13:19
+MERGED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:8:5-13:19
+MERGED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2e5fd02be3a38f0485077560364ab86b/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2e5fd02be3a38f0485077560364ab86b/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:13:9-42
+	android:icon
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:15:9-36
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#com.littlemakers.MainActivity
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:16:9-31:20
+	android:launchMode
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:25:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:29:27-73
+meta-data#flutterEmbedding
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:34:9-36:33
+	android:value
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:36:13-30
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:35:13-44
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:37:9-40:71
+	android:screenOrientation
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:40:13-69
+	android:name
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml:38:13-60
+uses-sdk
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:wakelock] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/wakelock/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_statusbarcolor/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_statusbarcolor/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:screen] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/screen/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:screen] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/screen/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_money_formatter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_money_formatter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_money_formatter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_money_formatter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/geocoder/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sms_autofill] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sms_autofill/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:sqflite] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2e5fd02be3a38f0485077560364ab86b/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2e5fd02be3a38f0485077560364ab86b/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f4318b834405921e87d6b24ed175996c/ucrop-2.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f4318b834405921e87d6b24ed175996c/ucrop-2.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4249dafbc90e047e09cdebdb3e82f272/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4249dafbc90e047e09cdebdb3e82f272/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4e748032d6df9c51e217df12fef202ab/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4e748032d6df9c51e217df12fef202ab/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/005b1c488f0d5e9f3ba6a8259f041c2d/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/005b1c488f0d5e9f3ba6a8259f041c2d/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ffbc01c62758e32dfc06aa0e80ac9b1e/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ffbc01c62758e32dfc06aa0e80ac9b1e/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/655a7c45b28998691931449a9b1101dd/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/655a7c45b28998691931449a9b1101dd/jetified-exoplayer-hls-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/9f20b754fb5d1fad0de3c63ba9d43fe9/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/9f20b754fb5d1fad0de3c63ba9d43fe9/jetified-exoplayer-dash-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b5c66757e813832d7cafc615efac2e27/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b5c66757e813832d7cafc615efac2e27/jetified-exoplayer-smoothstreaming-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2b2bbb61f97e9361460e48a98af8d15a/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2b2bbb61f97e9361460e48a98af8d15a/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/1e43ec82407637f465c620e746b223b7/multidex-2.0.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:22-76
+activity#com.razorpay.CheckoutActivity
+ADDED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:20
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:10:13-46
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:razorpay_flutter] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/library_manifest/release/AndroidManifest.xml:9:13-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+activity#com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:10:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-102
+activity#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:55
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:13-110
+receiver#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:19-115
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+activity#io.github.ponnamkarthik.flutteryoutube.PlayerActivity
+ADDED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:9:9-12:20
+	android:configChanges
+		ADDED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:11:13-85
+	android:name
+		ADDED from [:flutter_youtube] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/flutter_youtube/intermediates/library_manifest/release/AndroidManifest.xml:10:13-81
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:22:13-28:29
+data
+ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:25:17-27:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:26:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.5.4] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/AndroidManifest.xml:27:21-44
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/873eb91b7e5d0f48983741abf248fbbb/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/a6eb0b8cae2e6dbfe7467eda90cb1bb2/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2b2bbb61f97e9361460e48a98af8d15a/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/2b2bbb61f97e9361460e48a98af8d15a/jetified-exoplayer-core-2.9.6/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/384ac66d54ef8b792eb22b32f440baaf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

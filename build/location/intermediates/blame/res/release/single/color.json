@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0461819c36260285d07256ca429c7448/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0461819c36260285d07256ca429c7448/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/0461819c36260285d07256ca429c7448/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

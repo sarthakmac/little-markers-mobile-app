@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_white_border_black_bg.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_white_border_black_bg.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_loader_circle.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_loader_circle.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_border_bottom.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_border_bottom.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_border.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_border.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_secured_by_bg.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_secured_by_bg.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_poweredby.png",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_poweredby.png"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/rzp_green_button.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/5e97a93b041791a8b24fadb08c73ce76/checkout-1.5.4/res/drawable/rzp_green_button.xml"
+    },
+    {
+        "merged": "/Users/hitanshugogoi/Documents/GitHub/little-makers-mobile-app/build/razorpay_flutter/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/hitanshugogoi/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

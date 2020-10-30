@@ -1,0 +1,30 @@
+class AssetsStrings {
+  static const tutorialOne = "assets/tutorials_1.png";
+  static const tutorialTwo = "assets/tutorials_2.png";
+  static const tutorialThree = "assets/tutorials_3.png";
+  static const totorialFour = "assets/tutorials_4.png";
+  static const topBacground = "assets/top_bg.png";
+  static const bottomBacground = "assets/bottom_bg.png";
+  static const menuIcon = "assets/menu-icon.png";
+  static const cartIcon = "assets/cart-icon.png";
+  static const backArrow = "assets/back-arrow.png";
+  static const wishlist = "assets/wishlist.png";
+  static const courseBottomIcon = 'assets/course-bottom-tab.png';
+  static const productBottomIcon = 'assets/product-bottom-tab.png';
+  static const notificationBarIcon = 'assets/notification-bottom-tab.png';
+  static const user = 'assets/user.png';
+  static const menuHome = 'assets/01_home.png';
+  static const mykids = 'assets/02_my_kids.png';
+  static const myResult = 'assets/04_product.png';
+  static const menuCourse = 'assets/03_coures.png';
+  static const menuProduct = 'assets/04_product.png';
+  static const menuActiveService = 'assets/05_active_service.png';
+  static const orderHistory = 'assets/06_order_history.png';
+  static const menuNotification = 'assets/07_Notification.png';
+  static const menuProfile = 'assets/08_profile.png';
+  static const menuAddress = 'assets/09_address.png';
+  static const menuLogOut = 'assets/10_logout.png';
+  static const logo = 'assets/logo.png';
+  static const notificationIcon = 'assets/notification-icon.png';
+  static const appIcon='assets/app_Icon.PNG';
+}

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "235273645934",
+    "firebase_url": "https://littlemarker-a70fe.firebaseio.com",
+    "project_id": "littlemarker-a70fe",
+    "storage_bucket": "littlemarker-a70fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235273645934:android:efa6c2377582fc83375b7f",
+        "android_client_info": {
+          "package_name": "com.littlemakers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235273645934-lj0riiadh606uf3abr650671s459ppou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSWZK0KSO02C0DThyjV42xAFR_iPSh8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235273645934-lj0riiadh606uf3abr650671s459ppou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235273645934-75pbc7g8a96qhp2kv0qch9pr02mpo7m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turingAcademy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235273645934:android:33917ae53ad33696375b7f",
+        "android_client_info": {
+          "package_name": "com.littlemakersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235273645934-lj0riiadh606uf3abr650671s459ppou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYSWZK0KSO02C0DThyjV42xAFR_iPSh8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235273645934-lj0riiadh606uf3abr650671s459ppou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235273645934-75pbc7g8a96qhp2kv0qch9pr02mpo7m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turingAcademy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
