@@ -39,6 +39,18 @@ class AddShippingAddressViewModel extends BaseModel{
 
     }
   }
+
+  void onGetAddress(UpdateAddressCredential credential){
+    setState(ViewState.BUSY);
+    shippingAddress1Controller.text=credential.billing_address_1;
+    shippingAddress2Controller.text=credential.billing_address_2;
+    shippingCityController.text=credential.billing_city;
+    shippingCountryController.text=credential.billing_country;
+    shippingStateController.text=credential.billing_state;
+    shippingZipCodeController.text=credential.billing_zipcode;
+    setState(ViewState.IDLE);
+
+  }
   void updateUserShippingAddress(BuildContext context)async{
     setState(ViewState.BUSY);
 

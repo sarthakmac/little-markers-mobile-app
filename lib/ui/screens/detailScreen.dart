@@ -12,12 +12,9 @@ import 'package:turing_academy/constants/urls.dart';
 import 'package:turing_academy/core/model/SendApi/addProductCartCredential.dart';
 import 'package:turing_academy/core/model/SendApi/addWishListCredential.dart';
 import 'package:turing_academy/core/model/cartItem.dart';
-import 'package:turing_academy/core/model/checkWishlist.dart';
 import 'package:turing_academy/core/model/productModel.dart';
 import 'package:turing_academy/core/viewModel/productViewModel.dart';
-import 'package:turing_academy/models/product.dart';
 import 'package:turing_academy/providers/authProvider.dart';
-import 'package:turing_academy/providers/cartProvider.dart';
 import 'package:turing_academy/ui/screens/payment/cartSCreen.dart';
 import 'package:turing_academy/ui/widgets/screenBackground.dart';
 import 'package:toast/toast.dart';
@@ -195,7 +192,7 @@ class _DetailScreenState extends State<DetailScreen> {
 
                   }
                 },
-                color: snapshot.data?AppColors.redBottonColor:AppColors.fontGreyColor,
+                color: snapshot?.data?AppColors.redBottonColor:AppColors.fontGreyColor,
                 child: Image.asset(
                   AssetsStrings.wishlist,
                   width: 20,

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:turing_academy/ui/screens/authentication/changePasswordScreen.dart';
 import 'package:turing_academy/ui/screens/authentication/signInwithOtp.dart';
+import 'package:turing_academy/ui/screens/course/enter_profile_otp_screen.dart';
 import 'package:turing_academy/ui/screens/course/myAddress.dart';
 import 'package:turing_academy/ui/screens/course/timeline.dart';
 import 'package:turing_academy/ui/screens/course/mykids.dart';
@@ -148,6 +149,12 @@ class AppRouter {
       case AddShippingAddressScreen.routeName:
         return PageTransition(
           child: AddShippingAddressScreen(),
+          type: PageTransitionType.fade,
+          settings: settings,
+        );
+      case EnterProfileOtpScreen.routeName:
+        return PageTransition(
+          child: EnterProfileOtpScreen(arguments: settings.arguments,),
           type: PageTransitionType.fade,
           settings: settings,
         );

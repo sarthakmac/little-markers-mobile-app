@@ -124,13 +124,10 @@ class _PaymentScreenState extends State<PaymentScreen> {
       'oderId':response.orderId,
       'paymentId':response.paymentId,
       'signature':response.signature
-
-
     };
 
     try{
-      print('object===${widget.cartItem.cartCollection.length}');
-CreateOrderCredential createOrderCredential =CreateOrderCredential(
+   CreateOrderCredential createOrderCredential =CreateOrderCredential(
   user_id: loggedInUser.id.toString(),
   kid_id: selectedKid!=null?selectedKid.id.toString():null,
   sub_total: widget.cartItem.cartSubTotal.toString(),

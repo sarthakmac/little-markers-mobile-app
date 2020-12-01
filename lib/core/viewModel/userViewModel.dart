@@ -4,6 +4,7 @@ import 'package:turing_academy/core/enums/view_state.dart';
 import 'package:turing_academy/core/model/SendApi/addkidCredential.dart';
 import 'package:turing_academy/core/model/SendApi/changePasswordCredential.dart';
 import 'package:turing_academy/core/model/SendApi/otpCredential.dart';
+import 'package:turing_academy/core/model/SendApi/profile_otp_credential.dart';
 import 'package:turing_academy/core/model/SendApi/updateAddressCredential.dart';
 import 'package:turing_academy/core/model/SendApi/updateProfileCredential.dart';
 import 'package:turing_academy/core/model/SendApi/userImageCredential.dart';
@@ -91,9 +92,21 @@ class UserViewModel extends BaseModel {
     setState(ViewState.IDLE);
     return responseMessage;
   }
+  Future<ResponseMessage>sendProfileOtp(ProfileOtpCredential otpCredential)async{
+    setState(ViewState.BUSY);
+    ResponseMessage responseMessage =await _api.sendProfileOtpApi(otpCredential);
+    setState(ViewState.IDLE);
+    return responseMessage;
+  }
   Future<ResponseMessage>verifyOtp(OtpCredential otpCredential)async{
     setState(ViewState.BUSY);
     ResponseMessage responseMessage =await _api.verifyOtpApi(otpCredential);
+    setState(ViewState.IDLE);
+    return responseMessage;
+  }
+  Future<ResponseMessage>profileVerifyOtp(ProfileOtpCredential otpCredential)async{
+    setState(ViewState.BUSY);
+    ResponseMessage responseMessage =await _api.profileVerifyOtpApi(otpCredential);
     setState(ViewState.IDLE);
     return responseMessage;
   }

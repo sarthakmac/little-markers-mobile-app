@@ -6,6 +6,7 @@ import 'package:turing_academy/constants/appStyle.dart';
 import 'package:turing_academy/constants/assetsString.dart';
 import 'package:turing_academy/constants/sizeConfig.dart';
 import 'package:turing_academy/core/enums/view_state.dart';
+import 'package:turing_academy/core/services/locationManager.dart';
 import 'package:turing_academy/core/viewModel/add_address_viewmodel.dart';
 import 'package:turing_academy/core/viewModel/baseView.dart';
 import 'package:turing_academy/ui/widgets/AppBotton.dart';
@@ -85,6 +86,21 @@ class _AddShippingAddressScreenState extends State<AddShippingAddressScreen> {
                   child: ListView(
                 controller: _scrollController,
                 children: <Widget>[
+                  Padding(
+                    padding: SizeConfig.sidePadding,
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.end,
+                      children: [
+                        IconButton(icon: Icon(Icons.my_location),
+                            onPressed: (){
+                              LocationManager.getUserLocation().then((value){
+                                model.onGetAddress(value);
+                              });
+
+                            })
+                      ],
+                    ),
+                  ),
                   SizeConfig.verticalSmallSpace(),
                   Padding(
                     padding: SizeConfig.sidePadding,

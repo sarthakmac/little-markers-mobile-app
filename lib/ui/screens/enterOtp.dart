@@ -297,7 +297,7 @@ class _EnterOtpScreenState extends State<EnterOtpScreen> with CodeAutoFill{
                   child:AppBotton(
                           width: SizeConfig.screenWidth,
                           height: SizeConfig.screenHeight * 0.06,
-                          title: AppString.enterOtp,
+                          title: AppString.submit,
                           onTap: () async{
                             int currentIndex= await Prefs.getCurrentIndex();
                             if(currentText.length>5){

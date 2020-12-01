@@ -6,6 +6,7 @@ import 'package:path/path.dart';
 import 'package:turing_academy/constants/urls.dart';
 import 'package:turing_academy/core/model/SendApi/changePasswordCredential.dart';
 import 'package:turing_academy/core/model/SendApi/otpCredential.dart';
+import 'package:turing_academy/core/model/SendApi/profile_otp_credential.dart';
 import 'package:turing_academy/core/model/SendApi/updateAddressCredential.dart';
 import 'package:turing_academy/core/model/SendApi/updateProfileCredential.dart';
 import 'package:turing_academy/core/model/SendApi/userImageCredential.dart';
@@ -210,8 +211,46 @@ Future <dynamic>getUserAddressApi(){
     },otpCredential);
 
   }
+  Future<dynamic>sendProfileOtpApi(ProfileOtpCredential otpCredential){
+    return postRequestWithoutToken(AppUrl.sendProfileOtp, (r) {
+      print(r.body);
+      final responseError = json.decode(r.body)['error'];
+      if (responseError != null) {
+        String allErrors = "";
+        final error = responseError as Map<String, dynamic>;
+        error.forEach((k, v) {
+          allErrors += v.toString() + "\n";
+        });
+        return ResponseMessage(statuscode: json.decode(r.body)['status'], msg: allErrors);
+      }else{
+        return ResponseMessage(
+            msg: json.decode(r.body)['msg'],statuscode: json.decode(r.body)['status']
+        );
+      }
+    },otpCredential);
+
+  }
   Future<dynamic>verifyOtpApi(OtpCredential otpCredential){
     return postRequestWithoutToken(AppUrl.verifyOtp, (r) {
+      print(r.body);
+      final responseError = json.decode(r.body)['error'];
+      if (responseError != null) {
+        String allErrors = "";
+        final error = responseError as Map<String, dynamic>;
+        error.forEach((k, v) {
+          allErrors += v.toString() + "\n";
+        });
+        return ResponseMessage(statuscode: json.decode(r.body)['status'], msg: allErrors);
+      }else{
+        return ResponseMessage(
+            msg: json.decode(r.body)['msg'],statuscode: json.decode(r.body)['status']
+        );
+      }
+    },otpCredential);
+
+  }
+  Future<dynamic>profileVerifyOtpApi(ProfileOtpCredential otpCredential){
+    return postRequestWithoutToken(AppUrl.verifyProfileOtp, (r) {
       print(r.body);
       final responseError = json.decode(r.body)['error'];
       if (responseError != null) {

@@ -393,7 +393,8 @@ class _AddKidState extends State<AddKid> {
                                     boderColor: AppColors.redBottonColor,
                                     onTap: ()async{
                                       final picker = ImagePicker();
-                                      final file=await picker.getImage(source: ImageSource.gallery);
+                                      final file=await picker.getImage(source: ImageSource.gallery,
+                                      maxHeight: 200,maxWidth: 300);
                                       if(file!=null){
                                         imageFile = await ImageCropper.cropImage(
                                             sourcePath: file.path,

@@ -15,6 +15,7 @@ String token;
 
 class AuthProvider with ChangeNotifier {
   Future<ResponseModel> loginUser({String email, String password,String fcmToken}) async {
+    print('fcmToken==$fcmToken');
     try {
       final response = await http.post(AppUrl.loginAPi,
           headers: {'Content-Type': 'application/json'},

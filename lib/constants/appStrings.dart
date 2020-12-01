@@ -135,5 +135,6 @@ class AppString {
  static const noContentFound='No content found';
  static const pleaseContactDeveloperSupport='Please contact developer support.';
  static const paymentOptions='Payment options';
+ static const submit='SUBMIT';
 
 }

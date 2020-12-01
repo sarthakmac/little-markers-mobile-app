@@ -4,18 +4,14 @@ import 'package:provider/provider.dart';
 import 'package:turing_academy/constants/appConstants.dart';
 import 'package:turing_academy/constants/appDialog.dart';
 import 'package:turing_academy/constants/appStrings.dart';
-import 'package:turing_academy/constants/keys.dart';
-import 'package:turing_academy/core/viewModel/homeViewModel.dart';
 import 'package:turing_academy/core/viewModel/productViewModel.dart';
 import 'package:turing_academy/ui/screens/course/courseHome.dart';
 import 'package:turing_academy/ui/screens/course/notificationScreen.dart';
 import 'package:turing_academy/ui/screens/product/productHome.dart';
 import 'package:turing_academy/ui/widgets/appDrawer.dart';
-
 import '../../constants/appColors.dart';
 import '../../constants/assetsString.dart';
 import '../../constants/sizeConfig.dart';
-import 'Notification/notificationHome.dart';
 // GlobalKey<ScaffoldState> scaffoldkey = GlobalKey();
 class HomeScreen extends StatefulWidget {
   static const String routeName = '/home';

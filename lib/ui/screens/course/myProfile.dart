@@ -1,12 +1,17 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_masked_text/flutter_masked_text.dart';
 import 'package:provider/provider.dart';
+import 'package:sms_autofill/sms_autofill.dart';
 import 'package:turing_academy/constants/appColors.dart';
 import 'package:turing_academy/constants/appConstants.dart';
 import 'package:turing_academy/constants/appStrings.dart';
 import 'package:turing_academy/constants/appStyle.dart';
 import 'package:turing_academy/constants/sizeConfig.dart';
 import 'package:turing_academy/core/enums/view_state.dart';
+import 'package:turing_academy/core/model/SendApi/otpCredential.dart';
+import 'package:turing_academy/core/model/SendApi/profile_otp_credential.dart';
 import 'package:turing_academy/core/model/SendApi/updateProfileCredential.dart';
 import 'package:turing_academy/core/model/SendApi/userImageCredential.dart';
 import 'package:turing_academy/core/model/responseMessage.dart';
@@ -16,6 +21,7 @@ import 'package:turing_academy/core/viewModel/baseView.dart';
 import 'package:turing_academy/core/viewModel/myprofile_viewmodel.dart';
 import 'package:turing_academy/core/viewModel/userViewModel.dart';
 import 'package:turing_academy/providers/authProvider.dart';
+import 'package:turing_academy/ui/screens/course/enter_profile_otp_screen.dart';
 import 'package:turing_academy/ui/widgets/AppBotton.dart';
 import 'package:turing_academy/ui/widgets/appTextFieldWidget.dart';
 import 'package:turing_academy/ui/widgets/profileImageWidget.dart';
@@ -55,6 +61,11 @@ class _MyProfileState extends State<MyProfile> {
   bool get isShrink =>
       _scrollController.hasClients && _scrollController.offset > 5;
 
+
+  String signature;
+
+
+
   @override
   void initState() {
     _scrollController = ScrollController();
@@ -62,6 +73,15 @@ class _MyProfileState extends State<MyProfile> {
     _nameController.text = loggedInUser.firstname;
     _lastNameController.text = loggedInUser.lastname;
     _phoneNumber.text = loggedInUser.phone;
+    SmsAutoFill().listenForCode;
+    SmsAutoFill().getAppSignature.then((value)
+    {
+      print('object$value');
+      setState(() {
+        signature=value;
+      });
+
+    });
 
     super.initState();
   }
@@ -290,7 +310,26 @@ class _MyProfileState extends State<MyProfile> {
                             width: SizeConfig.screenWidth,
                             height: SizeConfig.screenHeight * .06,
                             title: AppString.updateProfile,
-                            onTap: updDateProfile,
+                            onTap: (){
+                              if(_phoneNumber.text!=loggedInUser.phone){
+                                model.sendProfileOtp(ProfileOtpCredential(phone:_phoneNumber.text,
+                                    userID: loggedInUser.id.toString())).then((value){
+                                  print(value.msg);
+                                  if(value.statuscode==1){
+                                    Navigator.of(context).pushNamed(EnterProfileOtpScreen.routeName,
+                                        arguments:EnterProfileOtpArguments(
+                                          phoneNumber: _phoneNumber.text,
+                                          firstName: _nameController.text,
+                                          lastName: _lastNameController.text
+                                        ));
+                                  }else{
+                                    AppConstant.showFailToast(context, value.msg);
+                                  }
+                                });
+                              }else{
+                                updDateProfile();
+                              }
+                            },
                           ),
                   ),
                   SizedBox(

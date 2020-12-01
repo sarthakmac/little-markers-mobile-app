@@ -68,5 +68,7 @@ class AppUrl {
   static final sendOtp=baseUrl+'auth/send/otp';
   static final verifyOtp=baseUrl+'auth/verify/otp';
   static final loginVerifyOtp=baseUrl+'auth/verify/otp/to/login';
+  static final sendProfileOtp=baseUrl+'auth/send/otp/to/update/phone';
+  static final verifyProfileOtp=baseUrl+'auth/verify/otp/to/update/phone';
 
 }
