@@ -203,29 +203,6 @@ class AppConstant {
     Toast.show(msg, context, duration: 5, gravity: gravity,backgroundColor: AppColors.redBottonColor);
   }
 
-  static Future<bool> checkAppStatus()async{
-    try{
-      final client = http.Client();
-      var result=await client.get(AppUrl.appStatusChecker);
-      print(result.body);
 
-      if(200 >= result.statusCode && result.statusCode < 300){
-
-        print(result.body);
-        if(json.decode(result.body)=='true'){
-          return true;
-        }else{
-          return false;
-        }
-
-      }else{
-        return false;
-      }
-    }catch(e){
-      print('$e');
-      return false;
-    }
-
-  }
 
 }

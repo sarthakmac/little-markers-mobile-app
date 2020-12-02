@@ -76,11 +76,11 @@ class Prefs{
 
   static Future<StarterValues>getFirstTime()async{
     final SharedPreferences preferences = await SharedPreferences.getInstance();
-    final bool isAvailable=await AppConstant.checkAppStatus();
+
 
     return StarterValues(
       isLogin: preferences.getBool('isLogin')??false,
-      isAvailable: isAvailable
+      isAvailable: true
     );
 
   }
